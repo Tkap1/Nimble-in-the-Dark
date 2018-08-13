@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/lightBoosterPickup.wav-e407399f0f8e0c3ac85244f66000c3ea.sample"
+
+[deps]
+
+source_file="res://Assets/lightBoosterPickup.wav"
+dest_files=[ "res://.import/lightBoosterPickup.wav-e407399f0f8e0c3ac85244f66000c3ea.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
